@@ -1,0 +1,1 @@
+# Amazone Template cloned using html and css only 
